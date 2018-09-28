@@ -1,7 +1,7 @@
 html {
 	height: 100%;
-
 }
+
 body {
 	margin: 0;
 	background-color: black;
@@ -13,9 +13,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	font-family: 'Unica One', cursive;
-
 }
-
 h1 {
 	font-size: 80px;
 }
